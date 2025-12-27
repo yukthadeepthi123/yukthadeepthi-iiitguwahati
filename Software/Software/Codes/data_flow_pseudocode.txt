@@ -1,2 +1,0 @@
-If fill level > 80%, notify authorities.
-

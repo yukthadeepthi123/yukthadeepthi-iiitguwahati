@@ -1,0 +1,7 @@
+If bin fill level >= 80%:
+    Mark bin as high priority
+    Send alert to authorities
+Else:
+    Continue monitoring
+
+
